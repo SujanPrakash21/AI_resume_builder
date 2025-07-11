@@ -22,9 +22,4 @@ A smart resume builder application that uses AI to help create professional resu
 - **NLP**: TextBlob for spell checking
 - **Environment Management**: python-dotenv
 
-## Installation ⚙️
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-resume-builder.git
-   cd ai-resume-builder
